@@ -8,7 +8,7 @@
 
 - 🔧 Obsessed with reverse engineering
 - ⚙️ C++ and assembly enjoyer
-- 🎈 Amateur 3D Graphics programmer
+- 🎈 Amateur 3D graphics programmer
 - 🔮 Making games mods
 
 Hope you'll like my projects, give them a look if you wish to 😄

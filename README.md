@@ -14,3 +14,4 @@
 Hope you'll like my projects, give them a look if you wish to 😄
 
 ## 🚀 Always pointing to the stars</h1>
+![](https://komarev.com/ghpvc/?username=Rex109&color=grey)
